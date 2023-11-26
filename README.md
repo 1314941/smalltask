@@ -1,3 +1,1 @@
-# special-giggle
-java练手
-
+# small task
