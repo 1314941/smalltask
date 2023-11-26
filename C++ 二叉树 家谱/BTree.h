@@ -3,8 +3,8 @@
 #define BTREE_H
 #include<stack>
 using namespace std;
-//树的支点
-typedef struct node//家谱中个人信息的载体
+//鏍戠殑鏀偣
+typedef struct node//瀹惰氨涓釜浜轰俊鎭殑杞戒綋
 {
 	char data;
 	bool isLchild;
@@ -32,7 +32,7 @@ public:
 	void FindAllAncestor(char Object);
 	void ShowAncestor(BTNode ancestor);
 	void DestroyBTree(BTNode b);
-	bool banish(char b);//逐出家谱
+	bool banish(char b);//閫愬嚭瀹惰氨
 };
 
 
