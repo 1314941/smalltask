@@ -25,8 +25,8 @@ BTree::BTree(const char* str)
 		default:;
 			p = new Node;
 			p->data = str[i];
-			p->lchild = NULL;//Òª¼ÇµÃ
-			p->rchild = NULL;//Òª¼ÇµÃ
+			p->lchild = NULL;//è¦è®°å¾—
+			p->rchild = NULL;//è¦è®°å¾—
 			if (root == NULL) {
 				p->isLchild = true;
 				p->level = 1;
@@ -265,7 +265,7 @@ bool BTree::banish(char me)
 		else {
 			father = FindFather(b);
 			if (father == NULL) {
-				cout << "ÕÒ²»µ½´ËÈË¸¸Ç×"<<endl;
+				cout << "æ‰¾ä¸åˆ°æ­¤äººçˆ¶äº²"<<endl;
 				return false;
 			}
 			if (b->isLchild) {
