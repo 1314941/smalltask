@@ -1,0 +1,32 @@
+
+Courses for year 2023 semester 1:
+
+1 程序设计基础 2
+9 高等数学 7
+
+Courses for year 2023 semester 2:
+
+2 离散数学 3
+4 汇编语言 3
+10 线性代数 5
+
+Courses for year 2023 semester 3:
+
+11 普通物理 2
+3 数据结构 4
+
+Courses for year 2023 semester 4:
+
+6 计算机原理 3
+12 数值分析 3
+5 程序设计与分析 2
+
+Courses for year 2023 semester 5:
+
+8 操作系统 4
+7 编译原理 4
+
+Courses for year 2023 semester 6:
+
+13 软件工程 3
+14 数据库原理 3
